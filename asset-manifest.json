@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ztkmweb/static/css/main.20f9acc1.css",
-    "main.js": "/ztkmweb/static/js/main.f4c254d1.js",
+    "main.js": "/ztkmweb/static/js/main.1e5c25d8.js",
     "static/js/488.688f4161.chunk.js": "/ztkmweb/static/js/488.688f4161.chunk.js",
     "static/media/primeicons.svg": "/ztkmweb/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/Inter-italic.var.woff2?v=3.19": "/ztkmweb/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -13,11 +13,11 @@
     "static/media/primeicons.woff2": "/ztkmweb/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/ztkmweb/index.html",
     "main.20f9acc1.css.map": "/ztkmweb/static/css/main.20f9acc1.css.map",
-    "main.f4c254d1.js.map": "/ztkmweb/static/js/main.f4c254d1.js.map",
+    "main.1e5c25d8.js.map": "/ztkmweb/static/js/main.1e5c25d8.js.map",
     "488.688f4161.chunk.js.map": "/ztkmweb/static/js/488.688f4161.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20f9acc1.css",
-    "static/js/main.f4c254d1.js"
+    "static/js/main.1e5c25d8.js"
   ]
 }
