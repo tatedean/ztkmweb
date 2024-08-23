@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ztkmweb/static/css/main.45c448fe.css",
-    "main.js": "/ztkmweb/static/js/main.737830c2.js",
-    "static/js/685.36ee08ff.chunk.js": "/ztkmweb/static/js/685.36ee08ff.chunk.js",
-    "static/media/primeicons.svg": "/ztkmweb/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/Inter-italic.var.woff2?v=3.19": "/ztkmweb/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
-    "static/media/Inter-roman.var.woff2?v=3.19": "/ztkmweb/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
-    "static/media/ZTPillars.svg": "/ztkmweb/static/media/ZTPillars.408a1d7e2a4bfb4edb7617571cb41dde.svg",
-    "static/media/primeicons.eot": "/ztkmweb/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
-    "static/media/primeicons.woff": "/ztkmweb/static/media/primeicons.8931fda1930c3bd21e96.woff",
-    "static/media/primeicons.ttf": "/ztkmweb/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
-    "static/media/primeicons.woff2": "/ztkmweb/static/media/primeicons.024b32cc7bf399b1a847.woff2",
-    "index.html": "/ztkmweb/index.html"
+    "main.css": "/static/css/main.c9b199db.css",
+    "main.js": "/static/js/main.fc945389.js",
+    "static/js/685.36ee08ff.chunk.js": "/static/js/685.36ee08ff.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/ZTPillars.svg": "/static/media/ZTPillars.408a1d7e2a4bfb4edb7617571cb41dde.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.45c448fe.css",
-    "static/js/main.737830c2.js"
+    "static/css/main.c9b199db.css",
+    "static/js/main.fc945389.js"
   ]
 }
